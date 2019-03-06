@@ -1,0 +1,5 @@
+echo "# hashspace" >> README.md
+git init
+git add readme.md
+git commit add origin https://www.github.com/papayabanana/hashspace.git
+git push -u origin master
